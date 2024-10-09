@@ -1,10 +1,10 @@
 EIGHT MOST IMPORTANT MODULES FOR DATA SCIENCE
 
-1. Numpy
-2. Pandas
-3. Matplotlib/Seaborn
-4. Scikit-learn
-5. Scrapy/Beautiful Soup
-6. Tensorflow/Pytorch
-7. SpaCy/ NLTK
-8. OpenCV
+1. Numpy - Numpy arrays fns
+2. Pandas - Dataframes fns
+3. Matplotlib/Seaborn - Data Visualization
+4. Scrapy/Beautiful Soup
+5. Scikit-learn - Machine Learning
+6. Tensorflow/Pytorch - Deep Learning
+7. SpaCy/ NLTK - Natural Language Processing
+8. OpenCV - Image Processing
