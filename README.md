@@ -1,6 +1,6 @@
 EIGHT MOST IMPORTANT MODULES FOR DATA SCIENCE
 
-1. Numpy                        - Numpy arrays fns
+1. Numpy                      - Numpy arrays fns
 2. Pandas                     - Dataframes fns
 3. Matplotlib/Seaborn         - Data Visualization
 4. Scrapy/Beautiful Soup      - Web Scrapping
